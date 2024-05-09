@@ -1,2 +1,2 @@
 # jmdka
-- github pull & pull.
+- github pull & pull and more
